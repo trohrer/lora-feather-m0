@@ -3,8 +3,6 @@
  *******************************************************************************/
 
 #include <SPI.h>
-#include <Ethernet2.h>
-#include "Settimino.h" // Changed word to s7word (word already declared in arduino code...)
 #include <lmic.h>
 #include <hal/hal.h> // Changed the SPI clock speed in the HAL.cpp to 8MHZ
 
