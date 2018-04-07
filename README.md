@@ -1,2 +1,9 @@
 # lora-feather-m0
-Example code using the Adafruit Feather Adalogger with the FeatherWing LoRa Radio.
+
+## Adafruit Feather M0 Adalogger
+
+TODO
+
+## Adafriot FeatherWing LoRa Radio
+
+![featherwing-lora-radio](https://github.com/trohrer/lora-feather-m0/blob/master/img/featherwing-lora-radio.png)
