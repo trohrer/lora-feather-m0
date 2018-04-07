@@ -4,6 +4,6 @@
 
 TODO
 
-## Adafriot FeatherWing LoRa Radio
+## Adafruit FeatherWing LoRa Radio
 
 ![featherwing-lora-radio](https://github.com/trohrer/lora-feather-m0/blob/master/img/featherwing-lora-radio.png)
