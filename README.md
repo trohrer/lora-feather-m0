@@ -5,8 +5,8 @@
 This example was tested on the Swisscom Low Power Network.
 
 ### Requirements
-- Adafruit Feather M0 Adalogger (ada-2796)
-- Adafruit FeatherWing LoRa Radio (ada-3231)
+- Adafruit Feather M0 Adalogger ([ada-2796](https://www.adafruit.com/product/2796))
+- Adafruit FeatherWing LoRa Radio ([ada-3231](https://www.adafruit.com/product/3231))
 - [Arduino-LMIC library](https://github.com/matthijskooijman/arduino-lmic)
 
 Some changes need to be done on the LMIC library:
