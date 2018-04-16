@@ -14,9 +14,9 @@ Some changes need to be done on the LMIC library:
 - Check the config.h settings (868MHz frequency and SX127x LoRa module)
 
 External antenna (optional):
-[uFL SMD connector](https://shop.boxtec.ch/ufl-smd-connector-p-42700.html)
-[Interface cable SMA to uFL](https://shop.boxtec.ch/interface-cable-sma-ufl-p-41884.html)
-[SMA antenna](https://shop.boxtec.ch/quad-band-loragsm-duck-antenna-sma-p-42621.html)
+- [uFL SMD connector](https://shop.boxtec.ch/ufl-smd-connector-p-42700.html)
+- [Interface cable SMA to uFL](https://shop.boxtec.ch/interface-cable-sma-ufl-p-41884.html)
+- [SMA antenna](https://shop.boxtec.ch/quad-band-loragsm-duck-antenna-sma-p-42621.html)
 
 ### Wiring
 ![featherwing-lora-radio](https://github.com/trohrer/lora-feather-m0/blob/master/img/featherwing-lora-radio.png)
