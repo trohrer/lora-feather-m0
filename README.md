@@ -2,7 +2,8 @@
 
 ## Example "lora-feather-m0-simple"
 
-This example was tested on the Swisscom Low Power Network.
+This is the `ttn-otaa.ino` example form the Arduino-LMIC library with some modifications.
+It was tested on the [Swisscom Low Power Network](http://lpn.swisscom.ch/).
 
 ### Requirements
 - Adafruit Feather M0 Adalogger ([ada-2796](https://www.adafruit.com/product/2796))
